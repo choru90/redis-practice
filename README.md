@@ -9,11 +9,13 @@
 메모리에 부하를 줄이도록 하였습니다.
 - 거래되어지는 정보에 대해서는 휘발되어지면 안되는 데이터기 때문에 RDB에 거래정보 저장 테이블을 생성하여서 관리하도록 하였습니다.
 ### 저장 처리
-![](../../Desktop/스크린샷 2023-07-27 오후 5.32.13.png)
+<img width="728" alt="스크린샷 2023-07-27 오후 5 32 13" src="https://github.com/kakaopayseccoding-server/202307-jgc1619-naver.com/assets/37210747/79074652-424c-4a8c-a684-0d45bdc847bc">
+
 
 
 ## 조회 처리
-![](../../Desktop/스크린샷 2023-07-27 오후 5.32.22.png)
+<img width="703" alt="스크린샷 2023-07-27 오후 5 32 22" src="https://github.com/kakaopayseccoding-server/202307-jgc1619-naver.com/assets/37210747/79bc3afc-5f5f-43f6-aa5a-4a2aa992fc5d">
+
 ## 실행방법
 1. docker compose 실행
 ```
