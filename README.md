@@ -17,7 +17,11 @@
 <img width="703" alt="스크린샷 2023-07-27 오후 5 32 22" src="https://github.com/kakaopayseccoding-server/202307-jgc1619-naver.com/assets/37210747/79bc3afc-5f5f-43f6-aa5a-4a2aa992fc5d">
 
 ## 실행방법
-1. docker compose 실행
+1. jar file 생성
+```
+./gradlew bootJar
+```
+2. docker compose 실행
 ```
 $ docker-compose up --build -d 
 ```
