@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-@Tag(name = "거래")
+@Tag(name = "거래", description = "주식 태그 조회에 값을 변경하기 위한 API")
 @RestController
 @RequestMapping("trading")
 @RequiredArgsConstructor
