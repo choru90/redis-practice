@@ -30,3 +30,9 @@ $ docker-compose up --build -d
 2. swagger 접속
 - http://localhost:8080/swagger-ui/index.html#/
 
+3. docker 종료시 : DB삭제 되지 않게 할 경우
+```
+$ docker-compose stop
+``` 
+
+
