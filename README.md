@@ -25,7 +25,7 @@
 ```
 $ docker-compose up --build -d 
 ```
-터미널에 입력하여 실행합니다.
+터미널에 입력하여 실행합니다. 빌드시에 20초 정도의 시간이 걸릴 수 있습니다.
 
 2. swagger 접속
 - http://localhost:8080/swagger-ui/index.html#/
